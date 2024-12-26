@@ -1,0 +1,11 @@
+Script started on 2024-12-26 07:07:00+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="110" LINES="27"]
+[0;32m@Lakshmidosti13 [0m➜ [1;34m/workspaces/0S_LAB [0;36m([1;31mmain[0;36m) [0m$ ps
+    PID TTY          TIME CMD
+   6521 pts/1    00:00:00 bash
+   6988 pts/1    00:00:00 ps
+[0;32m@Lakshmidosti13 [0m➜ [1;34m/workspaces/0S_LAB [0;36m([1;31mmain[0;36m) [0m$ pwd
+/workspaces/0S_LAB
+[0;32m@Lakshmidosti13 [0m➜ [1;34m/workspaces/0S_LAB [0;36m([1;31mmain[0;36m) [0m$ w[Kexit
+exit
+
+Script done on 2024-12-26 07:07:18+00:00 [COMMAND_EXIT_CODE="0"]
